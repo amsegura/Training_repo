@@ -1,2 +1,4 @@
 # Training_repo
-Example repo for UAM bioinformatics master class (Oct 25)
+Initial readme modified.
+
+Uploading database in xlsx format, named "example.xlsx".
